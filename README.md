@@ -62,7 +62,7 @@ ${YOUR_DATA_DIR}
         |   |-- ...
             
 ```
-You can develop a script or download from [Google Drive](https://drive.google.com/file/d/1fH44eMxfdKRjCDNwymvLyMTbb8EiPwBW/view?usp=sharing) to organize annotations files for **Cross Super-Category Evaluation**.
+Develop a script or download from [Google Drive](https://drive.google.com/file/d/1fH44eMxfdKRjCDNwymvLyMTbb8EiPwBW/view?usp=sharing) to organize annotations files for **Cross Super-Category Evaluation**.
 
 ## Quick start
 1. Clone this repo.
