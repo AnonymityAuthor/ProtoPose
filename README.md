@@ -4,8 +4,8 @@ Official code repository for the paper:
 
 <p align="left"><img src="assets/arch.png" width = "650" height = "300"></p>
 
-## Main Results
-### 1-shot Results on Split1~5
+## Main Results on MP100
+### 1-shot Results on Split1~5 
 |Set   |PCK@0.05|PCK@0.10|PCK@0.15|PCK@0.20|mPCK |
 |------|--------|--------|--------|--------|-----|
 |Split1|57.59   |84.38   |91.76   |94.94   |82.17|
