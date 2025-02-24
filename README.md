@@ -94,7 +94,7 @@ Develop a script or download from [Google Drive](https://drive.google.com/file/d
 
 Thanks to:
 
-- [MMPose](https://github.com/open-mmlab/mmpose)
+- [MMCV](https://github.com/open-mmlab/mmcv)
 - [DINOv2](https://github.com/facebookresearch/dinov2)
 - [Pose-for-Everything](https://github.com/luminxu/Pose-for-Everything)
 
